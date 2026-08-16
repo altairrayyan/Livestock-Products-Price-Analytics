@@ -66,7 +66,7 @@ cd Livestock-Products-Price-Analytics
 pip install -r requirements.txt
 
 3. Run the application:
-streamlit run ep1.py
+python -m streamlit run ep1.py
 
 The app will open at http://localhost:8501 in your browser.
 
