@@ -118,5 +118,5 @@ This project is informed by statistical research on agricultural data distributi
 ---
 
 Built by: Muhammad Altair Rayyan Kamajaya
-Created: August 2026
+Created: July 2026
 Portfolio Project
